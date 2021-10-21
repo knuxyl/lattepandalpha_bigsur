@@ -1,6 +1,8 @@
 # lattepandalpha_bigsur
 LattePanda Alpha 864 (m3-7y30) Opencore configuration for macOS Big Sur
 
+![systeminfo](https://raw.githubusercontent.com/knuxyl/lattepandalpha_bigsur/main/systeminfo.png)
+
 macOS Big Sur
 LattePanda Alpha 864 (m3-7y30)
 
