@@ -70,9 +70,12 @@ Kext Load Order
 	IntelBluetoothFirmware
 	
 Boot Flags
+
 RELEASE
+
 	alcid=17
 DEBUG
+
 	-v keepsyms=1 debug=0x100 alcid=17
 
 Changes made are found here
