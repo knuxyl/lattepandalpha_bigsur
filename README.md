@@ -17,11 +17,11 @@ Working
 Not Working
 
 	iMessage (due to invalid serial)
+	DRM playback in Safari (ie Netflix)
 Not Tested
 
 	Realtek RTL8111 Ethernet (Should Work)
 	Onboard Intel WiFi and Bluetooth (Should work)
-	DRM playback in Safari (ie Netflix)
 
 For DRM playback in a browser, use Chromium archive found at chromium.woolyss.com by Marmaduke that is ungoogled and includes widevine and all-codecs
 
