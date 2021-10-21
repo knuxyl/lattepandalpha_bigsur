@@ -5,11 +5,17 @@ macOS Big Sur
 LattePanda Alpha 864 (m3-7y30)
 
 Working
+
 	HDMI Audio
+	
 	3.5mm Audio
+	
 	m.2 Intel WiFi AX200 and Bluetooth
+	
 	m.2 SATA Storage
+	
 	Graphics Hardware Acceleration
+	
 Not Working
 	iMessage (due to invalid serial)
 Not Tested
